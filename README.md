@@ -1,7 +1,7 @@
 # Adewale Ademide - Digital Marketing Analyst
 <img align ="right" width="150" height="150" src="https://i.imgur.com/XXEAw4r.jpg">
 
-**Resume:** [Take me there]()
+**Resume:** [Take me there](https://i.postimg.cc/WbtxRRMs/My-Resume.png)
 
 **LinkedIn Page:** [Take me there](https://www.linkedin.com/in/ademide-adewale/)
 
