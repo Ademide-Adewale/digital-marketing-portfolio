@@ -49,10 +49,10 @@ You can see check out the visuals from the project in below.
 
 <img align ="center" width="1080" height="500" src="https://i.postimg.cc/3JBmHYMC/Screenshot-106.png">
 
-<img align ="center" width="720" height="500" src="https://i.postimg.cc/DyFLDmNw/Screenshot-108.png">
+<img align ="center" width="720" height="1080" src="https://i.postimg.cc/DyFLDmNw/Screenshot-108.png">
 
 
-### Bulk Messaging Outreach - Whatsapp Business Messenger API Automation for Marketing Outreach
+### SMS Bulk Messaging Outreach - Whatsapp Business Messenger API Automation for Marketing Outreach
 
 ##### Project Outlook
 You can see check out the visuals from the project in below.
