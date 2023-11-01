@@ -9,7 +9,7 @@
 ## Epic Project Outlook
 Find below remarkable projects completed by me.
 
-In the past Six years, I use analytical tools such as twitter ads, facebook ads, google analytics, pragmatic ads, microsoft excel, microsoft access, microsoft powerpoint, microsoft powerbi and tableau, to help achieve desired outcome.
+Over the last six years, I use analytical tools such as twitter ads, facebook ads, google analytics, pragmatic ads, microsoft excel, microsoft access, microsoft powerpoint, microsoft powerbi and tableau, to help achieve desired outcome.
 
 ### Polictical Election Facebook and Google Ads
 
