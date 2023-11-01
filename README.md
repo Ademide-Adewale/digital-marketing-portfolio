@@ -57,13 +57,13 @@ You can see check out the visuals from the project in below.
 ##### Project Outlook
 You can see check out the visuals from the project in below.
 
-<img align ="center" width="720" height="500" src="https://i.postimg.cc/pX237Z23/68747470733a2f2f692e696d6775722e636f6d2f4d6738597739662e6a7067.jpg">
+<img align ="center" width="720" height="1080" src="https://i.postimg.cc/pX237Z23/68747470733a2f2f692e696d6775722e636f6d2f4d6738597739662e6a7067.jpg">
 
-<img align ="center" width="720" height="500" src="https://i.postimg.cc/fW76BFhx/68747470733a2f2f692e696d6775722e636f6d2f5250545864746d2e6a7067.jpg">
+<img align ="center" width="720" height="1080" src="https://i.postimg.cc/fW76BFhx/68747470733a2f2f692e696d6775722e636f6d2f5250545864746d2e6a7067.jpg">
 
-<img align ="center" width="720" height="500" src="https://i.postimg.cc/C54X5Z4v/68747470733a2f2f692e696d6775722e636f6d2f575238614356712e6a7067.jpg">
+<img align ="center" width="720" height="1080" src="https://i.postimg.cc/C54X5Z4v/68747470733a2f2f692e696d6775722e636f6d2f575238614356712e6a7067.jpg">
 
-<img align ="center" width="720" height="500" src="https://i.postimg.cc/WbXxPkzz/68747470733a2f2f692e696d6775722e636f6d2f74645659717a382e6a7067.jpg">
+<img align ="center" width="720" height="1080" src="https://i.postimg.cc/WbXxPkzz/68747470733a2f2f692e696d6775722e636f6d2f74645659717a382e6a7067.jpg">
 
 
 
